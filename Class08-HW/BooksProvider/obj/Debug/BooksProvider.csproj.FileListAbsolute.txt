@@ -1,0 +1,10 @@
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\BooksProvider.dll
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\BooksProvider.pdb
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csprojAssemblyReference.cache
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csproj.CoreCompileInputs.cache
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.csproj.CopyComplete
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.dll
+C:\Users\kozle-laptop\Desktop\sedc7-06-csharpadvanced-master\g5\Class08\BooksProvider\obj\Debug\BooksProvider.pdb
